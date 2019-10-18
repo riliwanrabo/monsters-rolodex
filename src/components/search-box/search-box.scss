@@ -1,0 +1,12 @@
+.search-box-wrapper {
+  min-height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  input[type="search"] {
+    padding: 1em;
+    width: 50%;
+    // border-radius: 3px;
+  }
+}
